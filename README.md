@@ -1,6 +1,6 @@
 # Mountain Bike Suspension Analysis
 
-_Disclaimer: I'll correct and improve this README when i have the mental the space to do so. This is just a provisory README writen by chatGPT with sparse information i provided it._
+_Disclaimer: I'll correct and improve this README when i have the mental the space and energy to do so. This is just a provisory README writen by chatGPT with sparse information i provided it._
 
 
 This repository contains tools and data for analyzing mountain bike suspension kinematics and dynamics. It is designed to work with arbitrary spring and damper curves, providing a flexible solution for evaluating suspension performance.
